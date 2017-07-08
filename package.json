@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vesteraas/node-unicornhathd/issues"
   },
-  "homepage": "https://github.com/vesteraas/node-unicornhathd#readme"
+  "homepage": "https://github.com/vesteraas/node-unicornhathd#readme",
+  "dependencies": {
+    "pi-spi": "^1.0.2"
+  }
 }
