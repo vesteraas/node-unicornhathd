@@ -45,7 +45,7 @@ Clears the buffer and turns off all the LED's.
 ```javascript
 var UnicornHatHD = require('unicornhat-hd');
 
-var unicornHatHD = new UnicornHat('/dev/spidev0.0');
+var unicornHatHD = new UnicornHatHD('/dev/spidev0.0');
 
 unicornHatHD.setBrightness(1.0);
 
