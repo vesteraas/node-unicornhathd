@@ -95,13 +95,4 @@ UnicornHatHD.prototype.show = function (flip_horizontal, flip_vertical) {
     });
 };
 
-UnicornHatHD.prototype.show = function () {
-    this.show(false, false);
-};
-
-UnicornHatHD.prototype.off = function () {
-    this.clear();
-    this.show();
-};
-
 module.exports = UnicornHatHD;

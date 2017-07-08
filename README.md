@@ -32,10 +32,6 @@ Retrieves an array of the color components at coordinate X, Y.
 
 Clears the buffer.
 
-**UnicornHatHD.show()**
-
-Displays the buffer.
-
 **UnicornHatHD.show(flip_horizontal, flip_vertical)**
 
 Displays the buffer, flipped around the horizontal or vertical axis, or both.
