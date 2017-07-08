@@ -1,0 +1,24 @@
+{
+  "name": "unicornhat-hd",
+  "version": "0.0.1",
+  "description": "A Node.js module for the Pimoroni Unicorn Hat HD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vesteraas/node-unicornhathd.git"
+  },
+  "keywords": [
+    "pimoroni",
+    "unicorn",
+    "raspberry"
+  ],
+  "author": "Werner Vesterås <wvesteraas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesteraas/node-unicornhathd/issues"
+  },
+  "homepage": "https://github.com/vesteraas/node-unicornhathd#readme"
+}
