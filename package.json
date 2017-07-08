@@ -1,6 +1,6 @@
 {
   "name": "unicornhat-hd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Node.js module for the Pimoroni Unicorn Hat HD",
   "main": "index.js",
   "scripts": {
